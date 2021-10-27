@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_AESDDEVICE
+	bool "aesddevice"
+	help
+	  Includes the Linux Device Drivers for Assignment 8
